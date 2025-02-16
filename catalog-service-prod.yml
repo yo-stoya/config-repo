@@ -1,0 +1,2 @@
+greeting:
+  message: PROD greeting from config service
